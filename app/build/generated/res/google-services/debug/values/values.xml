@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="default_web_client_id" translatable="false">542039569210-l4b0e3it9ebq2pmjrmc14t2ji83adbb3.apps.googleusercontent.com</string>
+    <string name="gcm_defaultSenderId" translatable="false">542039569210</string>
+    <string name="google_api_key" translatable="false">AIzaSyCNJ4zccM3Ef4kaSK6Vu2pr3-rXRKmtFaE</string>
+    <string name="google_app_id" translatable="false">1:542039569210:android:e4c7f2349a4ec8abb35603</string>
+    <string name="google_crash_reporting_api_key" translatable="false">AIzaSyCNJ4zccM3Ef4kaSK6Vu2pr3-rXRKmtFaE</string>
+    <string name="google_storage_bucket" translatable="false">chatty-286ac.appspot.com</string>
+    <string name="project_id" translatable="false">chatty-286ac</string>
+</resources>

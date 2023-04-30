@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Chatty</string>
+    <string name="email">Email</string>
+    <string name="password">Password</string>
+    <string name="name">Name</string>
+    <string name="sign_up">SIGN UP</string>
+    <string name="login">LOG IN</string>
+    <string name="chatty_logo_description">Chatty Logo</string>
+</resources>
