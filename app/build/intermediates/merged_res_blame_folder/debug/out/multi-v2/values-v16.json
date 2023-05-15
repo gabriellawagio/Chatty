@@ -4,7 +4,7 @@
             "outputFile": "com.example.chatty.app-mergeDebugResources-31:/values-v16/values-v16.xml",
             "map": [
                 {
-                    "source": "C:\\Users\\HP\\.gradle\\caches\\transforms-3\\d10264a2c19d5090bb68d54dfb3a1dcf\\transformed\\core-1.12.0-alpha03\\res\\values-v16\\values-v16.xml",
+                    "source": "C:\\Users\\HP\\.gradle\\caches\\transforms-3\\277976de16822d7f72abc73845abb6ab\\transformed\\core-1.10.0\\res\\values-v16\\values-v16.xml",
                     "from": {
                         "startLines": "2",
                         "startColumns": "4",
@@ -14,7 +14,7 @@
                     }
                 },
                 {
-                    "source": "C:\\Users\\HP\\.gradle\\caches\\transforms-3\\1e18dc70af69f84eb45fe5c435e9f46a\\transformed\\appcompat-1.6.1\\res\\values-v16\\values-v16.xml",
+                    "source": "C:\\Users\\HP\\.gradle\\caches\\transforms-3\\3408919a192a45e83da2be167733072e\\transformed\\appcompat-1.6.1\\res\\values-v16\\values-v16.xml",
                     "from": {
                         "startLines": "2",
                         "startColumns": "4",

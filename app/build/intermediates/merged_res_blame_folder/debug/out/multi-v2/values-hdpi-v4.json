@@ -4,7 +4,7 @@
             "outputFile": "com.example.chatty.app-mergeDebugResources-31:/values-hdpi-v4/values-hdpi-v4.xml",
             "map": [
                 {
-                    "source": "C:\\Users\\HP\\.gradle\\caches\\transforms-3\\1e18dc70af69f84eb45fe5c435e9f46a\\transformed\\appcompat-1.6.1\\res\\values-hdpi-v4\\values-hdpi-v4.xml",
+                    "source": "C:\\Users\\HP\\.gradle\\caches\\transforms-3\\3408919a192a45e83da2be167733072e\\transformed\\appcompat-1.6.1\\res\\values-hdpi-v4\\values-hdpi-v4.xml",
                     "from": {
                         "startLines": "2",
                         "startColumns": "4",
