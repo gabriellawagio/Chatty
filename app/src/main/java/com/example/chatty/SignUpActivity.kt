@@ -49,6 +49,7 @@ class SignUpActivity : AppCompatActivity() {
                     // code for jumping to home
                     addUserToDatabase(name,email,mAuth.currentUser?.uid!!)
                     val intent = Intent(this@SignUpActivity, MainActivity::class.java)
+                    finish()
                     startActivity(intent)
                 } else {
                    Toast.makeText(this@SignUpActivity, "An error occurred", Toast.LENGTH_SHORT).show()
@@ -59,7 +60,6 @@ class SignUpActivity : AppCompatActivity() {
 
     private fun addUserToDatabase(name:String, email:String, uid:String){
         mDbRef = FirebaseDatabase.getInstance().getReference()
-
         mDbRef.child("user").child(uid).setValue(User(name, email, uid))
     }
 }

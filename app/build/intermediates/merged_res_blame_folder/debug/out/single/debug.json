@@ -1,102 +1,122 @@
 [
     {
-        "merged": "com.example.chatty.app-merged_res-33:/layout_activity_main.xml.flat",
-        "source": "com.example.chatty.app-main-35:/layout/activity_main.xml"
+        "merged": "C:\\Users\\HP\\.gradle\\daemon\\8.0\\com.example.chatty.app-merged_res-33:\\mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "C:\\Users\\HP\\.gradle\\daemon\\8.0\\com.example.chatty.app-main-35:\\mipmap-anydpi-v26\\ic_launcher.xml"
     },
     {
-        "merged": "com.example.chatty.app-merged_res-33:/mipmap-anydpi-v26_ic_launcher_round.xml.flat",
-        "source": "com.example.chatty.app-main-35:/mipmap-anydpi-v26/ic_launcher_round.xml"
+        "merged": "C:\\Users\\HP\\.gradle\\daemon\\8.0\\com.example.chatty.app-merged_res-33:\\mipmap-xxxhdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\HP\\.gradle\\daemon\\8.0\\com.example.chatty.app-main-35:\\mipmap-xxxhdpi\\ic_launcher_round.webp"
     },
     {
-        "merged": "com.example.chatty.app-merged_res-33:/mipmap-xxxhdpi_ic_launcher.webp.flat",
-        "source": "com.example.chatty.app-main-35:/mipmap-xxxhdpi/ic_launcher.webp"
+        "merged": "C:\\Users\\HP\\.gradle\\daemon\\8.0\\com.example.chatty.app-merged_res-33:\\mipmap-xxhdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\HP\\.gradle\\daemon\\8.0\\com.example.chatty.app-main-35:\\mipmap-xxhdpi\\ic_launcher_round.webp"
     },
     {
-        "merged": "com.example.chatty.app-merged_res-33:/mipmap-mdpi_ic_launcher_round.webp.flat",
-        "source": "com.example.chatty.app-main-35:/mipmap-mdpi/ic_launcher_round.webp"
+        "merged": "C:\\Users\\HP\\.gradle\\daemon\\8.0\\com.example.chatty.app-merged_res-33:\\menu_menu.xml.flat",
+        "source": "C:\\Users\\HP\\.gradle\\daemon\\8.0\\com.example.chatty.app-main-35:\\menu\\menu.xml"
     },
     {
-        "merged": "com.example.chatty.app-merged_res-33:/drawable_chatty_send_modified.png.flat",
-        "source": "com.example.chatty.app-main-35:/drawable/chatty_send_modified.png"
+        "merged": "C:\\Users\\HP\\.gradle\\daemon\\8.0\\com.example.chatty.app-merged_res-33:\\mipmap-xhdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\HP\\.gradle\\daemon\\8.0\\com.example.chatty.app-main-35:\\mipmap-xhdpi\\ic_launcher_round.webp"
     },
     {
-        "merged": "com.example.chatty.app-merged_res-33:/drawable_ic_launcher_background.xml.flat",
-        "source": "com.example.chatty.app-main-35:/drawable/ic_launcher_background.xml"
+        "merged": "C:\\Users\\HP\\.gradle\\daemon\\8.0\\com.example.chatty.app-merged_res-33:\\drawable_ic_launcher_background.xml.flat",
+        "source": "C:\\Users\\HP\\.gradle\\daemon\\8.0\\com.example.chatty.app-main-35:\\drawable\\ic_launcher_background.xml"
     },
     {
-        "merged": "com.example.chatty.app-merged_res-33:/mipmap-xxhdpi_ic_launcher.webp.flat",
-        "source": "com.example.chatty.app-main-35:/mipmap-xxhdpi/ic_launcher.webp"
+        "merged": "C:\\Users\\HP\\.gradle\\daemon\\8.0\\com.example.chatty.app-merged_res-33:\\drawable_edt_background.xml.flat",
+        "source": "C:\\Users\\HP\\.gradle\\daemon\\8.0\\com.example.chatty.app-main-35:\\drawable\\edt_background.xml"
     },
     {
-        "merged": "com.example.chatty.app-merged_res-33:/mipmap-xhdpi_ic_launcher.webp.flat",
-        "source": "com.example.chatty.app-main-35:/mipmap-xhdpi/ic_launcher.webp"
+        "merged": "com.example.chatty.app-merged_res-33:/layout_send.xml.flat",
+        "source": "com.example.chatty.app-main-35:/layout/send.xml"
     },
     {
-        "merged": "com.example.chatty.app-merged_res-33:/mipmap-xxxhdpi_ic_launcher_round.webp.flat",
-        "source": "com.example.chatty.app-main-35:/mipmap-xxxhdpi/ic_launcher_round.webp"
+        "merged": "C:\\Users\\HP\\.gradle\\daemon\\8.0\\com.example.chatty.app-merged_res-33:\\mipmap-mdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\HP\\.gradle\\daemon\\8.0\\com.example.chatty.app-main-35:\\mipmap-mdpi\\ic_launcher.webp"
     },
     {
-        "merged": "com.example.chatty.app-merged_res-33:/mipmap-mdpi_ic_launcher.webp.flat",
-        "source": "com.example.chatty.app-main-35:/mipmap-mdpi/ic_launcher.webp"
+        "merged": "com.example.chatty.app-merged_res-33:/layout_receive.xml.flat",
+        "source": "com.example.chatty.app-main-35:/layout/receive.xml"
     },
     {
-        "merged": "com.example.chatty.app-merged_res-33:/drawable_chatty_logo.png.flat",
-        "source": "com.example.chatty.app-main-35:/drawable/chatty_logo.png"
+        "merged": "C:\\Users\\HP\\.gradle\\daemon\\8.0\\com.example.chatty.app-merged_res-33:\\xml_data_extraction_rules.xml.flat",
+        "source": "C:\\Users\\HP\\.gradle\\daemon\\8.0\\com.example.chatty.app-main-35:\\xml\\data_extraction_rules.xml"
     },
     {
-        "merged": "com.example.chatty.app-merged_res-33:/mipmap-anydpi-v26_ic_launcher.xml.flat",
-        "source": "com.example.chatty.app-main-35:/mipmap-anydpi-v26/ic_launcher.xml"
+        "merged": "C:\\Users\\HP\\.gradle\\daemon\\8.0\\com.example.chatty.app-merged_res-33:\\xml_backup_rules.xml.flat",
+        "source": "C:\\Users\\HP\\.gradle\\daemon\\8.0\\com.example.chatty.app-main-35:\\xml\\backup_rules.xml"
     },
     {
-        "merged": "com.example.chatty.app-merged_res-33:/drawable_chatty_bg.png.flat",
-        "source": "com.example.chatty.app-main-35:/drawable/chatty_bg.png"
+        "merged": "C:\\Users\\HP\\.gradle\\daemon\\8.0\\com.example.chatty.app-merged_res-33:\\mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "C:\\Users\\HP\\.gradle\\daemon\\8.0\\com.example.chatty.app-main-35:\\mipmap-anydpi-v26\\ic_launcher_round.xml"
     },
     {
-        "merged": "com.example.chatty.app-merged_res-33:/layout_activity_login.xml.flat",
-        "source": "com.example.chatty.app-main-35:/layout/activity_login.xml"
+        "merged": "C:\\Users\\HP\\.gradle\\daemon\\8.0\\com.example.chatty.app-merged_res-33:\\mipmap-hdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\HP\\.gradle\\daemon\\8.0\\com.example.chatty.app-main-35:\\mipmap-hdpi\\ic_launcher.webp"
     },
     {
-        "merged": "com.example.chatty.app-merged_res-33:/drawable_edt_background.xml.flat",
-        "source": "com.example.chatty.app-main-35:/drawable/edt_background.xml"
+        "merged": "C:\\Users\\HP\\.gradle\\daemon\\8.0\\com.example.chatty.app-merged_res-33:\\drawable_chatty_bg.png.flat",
+        "source": "C:\\Users\\HP\\.gradle\\daemon\\8.0\\com.example.chatty.app-main-35:\\drawable\\chatty_bg.png"
     },
     {
-        "merged": "com.example.chatty.app-merged_res-33:/xml_backup_rules.xml.flat",
-        "source": "com.example.chatty.app-main-35:/xml/backup_rules.xml"
+        "merged": "C:\\Users\\HP\\.gradle\\daemon\\8.0\\com.example.chatty.app-merged_res-33:\\layout_activity_login.xml.flat",
+        "source": "C:\\Users\\HP\\.gradle\\daemon\\8.0\\com.example.chatty.app-main-35:\\layout\\activity_login.xml"
     },
     {
-        "merged": "com.example.chatty.app-merged_res-33:/mipmap-xxhdpi_ic_launcher_round.webp.flat",
-        "source": "com.example.chatty.app-main-35:/mipmap-xxhdpi/ic_launcher_round.webp"
+        "merged": "com.example.chatty.app-merged_res-33:/layout_activity_chat.xml.flat",
+        "source": "com.example.chatty.app-main-35:/layout/activity_chat.xml"
     },
     {
-        "merged": "com.example.chatty.app-merged_res-33:/mipmap-xhdpi_ic_launcher_round.webp.flat",
-        "source": "com.example.chatty.app-main-35:/mipmap-xhdpi/ic_launcher_round.webp"
+        "merged": "C:\\Users\\HP\\.gradle\\daemon\\8.0\\com.example.chatty.app-merged_res-33:\\drawable_chatty_logo.png.flat",
+        "source": "C:\\Users\\HP\\.gradle\\daemon\\8.0\\com.example.chatty.app-main-35:\\drawable\\chatty_logo.png"
     },
     {
-        "merged": "com.example.chatty.app-merged_res-33:/mipmap-hdpi_ic_launcher_round.webp.flat",
-        "source": "com.example.chatty.app-main-35:/mipmap-hdpi/ic_launcher_round.webp"
+        "merged": "C:\\Users\\HP\\.gradle\\daemon\\8.0\\com.example.chatty.app-merged_res-33:\\mipmap-xxhdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\HP\\.gradle\\daemon\\8.0\\com.example.chatty.app-main-35:\\mipmap-xxhdpi\\ic_launcher.webp"
     },
     {
-        "merged": "com.example.chatty.app-merged_res-33:/xml_data_extraction_rules.xml.flat",
-        "source": "com.example.chatty.app-main-35:/xml/data_extraction_rules.xml"
+        "merged": "com.example.chatty.app-merged_res-33:/drawable_message_box_background.xml.flat",
+        "source": "com.example.chatty.app-main-35:/drawable/message_box_background.xml"
     },
     {
-        "merged": "com.example.chatty.app-merged_res-33:/mipmap-hdpi_ic_launcher.webp.flat",
-        "source": "com.example.chatty.app-main-35:/mipmap-hdpi/ic_launcher.webp"
+        "merged": "C:\\Users\\HP\\.gradle\\daemon\\8.0\\com.example.chatty.app-merged_res-33:\\drawable_chatty_send_modified.png.flat",
+        "source": "C:\\Users\\HP\\.gradle\\daemon\\8.0\\com.example.chatty.app-main-35:\\drawable\\chatty_send_modified.png"
     },
     {
-        "merged": "com.example.chatty.app-merged_res-33:/layout_user_layout.xml.flat",
-        "source": "com.example.chatty.app-main-35:/layout/user_layout.xml"
+        "merged": "C:\\Users\\HP\\.gradle\\daemon\\8.0\\com.example.chatty.app-merged_res-33:\\mipmap-xxxhdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\HP\\.gradle\\daemon\\8.0\\com.example.chatty.app-main-35:\\mipmap-xxxhdpi\\ic_launcher.webp"
     },
     {
-        "merged": "com.example.chatty.app-merged_res-33:/drawable_btn_background.xml.flat",
-        "source": "com.example.chatty.app-main-35:/drawable/btn_background.xml"
+        "merged": "C:\\Users\\HP\\.gradle\\daemon\\8.0\\com.example.chatty.app-merged_res-33:\\mipmap-xhdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\HP\\.gradle\\daemon\\8.0\\com.example.chatty.app-main-35:\\mipmap-xhdpi\\ic_launcher.webp"
     },
     {
-        "merged": "com.example.chatty.app-merged_res-33:/drawable-v24_ic_launcher_foreground.xml.flat",
-        "source": "com.example.chatty.app-main-35:/drawable-v24/ic_launcher_foreground.xml"
+        "merged": "C:\\Users\\HP\\.gradle\\daemon\\8.0\\com.example.chatty.app-merged_res-33:\\layout_activity_sign_up.xml.flat",
+        "source": "C:\\Users\\HP\\.gradle\\daemon\\8.0\\com.example.chatty.app-main-35:\\layout\\activity_sign_up.xml"
     },
     {
-        "merged": "com.example.chatty.app-merged_res-33:/layout_activity_sign_up.xml.flat",
-        "source": "com.example.chatty.app-main-35:/layout/activity_sign_up.xml"
+        "merged": "C:\\Users\\HP\\.gradle\\daemon\\8.0\\com.example.chatty.app-merged_res-33:\\layout_user_layout.xml.flat",
+        "source": "C:\\Users\\HP\\.gradle\\daemon\\8.0\\com.example.chatty.app-main-35:\\layout\\user_layout.xml"
+    },
+    {
+        "merged": "C:\\Users\\HP\\.gradle\\daemon\\8.0\\com.example.chatty.app-merged_res-33:\\drawable_btn_background.xml.flat",
+        "source": "C:\\Users\\HP\\.gradle\\daemon\\8.0\\com.example.chatty.app-main-35:\\drawable\\btn_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\HP\\.gradle\\daemon\\8.0\\com.example.chatty.app-merged_res-33:\\mipmap-mdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\HP\\.gradle\\daemon\\8.0\\com.example.chatty.app-main-35:\\mipmap-mdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\HP\\.gradle\\daemon\\8.0\\com.example.chatty.app-merged_res-33:\\drawable-v24_ic_launcher_foreground.xml.flat",
+        "source": "C:\\Users\\HP\\.gradle\\daemon\\8.0\\com.example.chatty.app-main-35:\\drawable-v24\\ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "C:\\Users\\HP\\.gradle\\daemon\\8.0\\com.example.chatty.app-merged_res-33:\\layout_activity_main.xml.flat",
+        "source": "C:\\Users\\HP\\.gradle\\daemon\\8.0\\com.example.chatty.app-main-35:\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\HP\\.gradle\\daemon\\8.0\\com.example.chatty.app-merged_res-33:\\mipmap-hdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\HP\\.gradle\\daemon\\8.0\\com.example.chatty.app-main-35:\\mipmap-hdpi\\ic_launcher_round.webp"
     }
 ]

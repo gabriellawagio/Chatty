@@ -6,4 +6,7 @@
     <string name="sign_up">SIGN UP</string>
     <string name="login">LOG IN</string>
     <string name="chatty_logo_description">Chatty Logo</string>
+    <string name="sent_message">This is a sent message</string>
+    <string name="received_message">This is a received message</string>
+
 </resources>

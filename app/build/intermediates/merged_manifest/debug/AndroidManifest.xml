@@ -31,6 +31,9 @@
         android:testOnly="true"
         android:theme="@style/Theme.Chatty" >
         <activity
+            android:name="com.example.chatty.ChatActivity"
+            android:exported="false" />
+        <activity
             android:name="com.example.chatty.SignUpActivity"
             android:exported="false" />
         <activity
@@ -60,10 +63,10 @@
                 android:name="com.google.firebase.components:com.google.firebase.database.ktx.FirebaseDatabaseKtxRegistrar"
                 android:value="com.google.firebase.components.ComponentRegistrar" />
             <meta-data
-                android:name="com.google.firebase.components:com.google.firebase.database.DatabaseRegistrar"
+                android:name="com.google.firebase.components:com.google.firebase.ktx.FirebaseCommonKtxRegistrar"
                 android:value="com.google.firebase.components.ComponentRegistrar" />
             <meta-data
-                android:name="com.google.firebase.components:com.google.firebase.ktx.FirebaseCommonKtxRegistrar"
+                android:name="com.google.firebase.components:com.google.firebase.database.DatabaseRegistrar"
                 android:value="com.google.firebase.components.ComponentRegistrar" />
         </service>
 

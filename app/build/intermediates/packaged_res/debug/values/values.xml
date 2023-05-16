@@ -2,6 +2,9 @@
 <resources>
     <color name="black">#FF000000</color>
     <color name="purple">#cc00cc</color>
+    <color name="purple_2">#980B98</color>
+    <color name="teal">#036c5f</color>
+    <color name="teal_2">#069E8B</color>
     <color name="white">#FFFFFFFF</color>
     <string name="app_name">Chatty</string>
     <string name="chatty_logo_description">Chatty Logo</string>
@@ -16,6 +19,8 @@
     <string name="name">Name</string>
     <string name="password">Password</string>
     <string name="project_id" translatable="false">chatty-286ac</string>
+    <string name="received_message">This is a received message</string>
+    <string name="sent_message">This is a sent message</string>
     <string name="sign_up">SIGN UP</string>
     <style name="Base.Theme.Chatty" parent="Theme.AppCompat.Light">
         
